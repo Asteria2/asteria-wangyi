@@ -11,7 +11,7 @@
     "axios": "^0.18.0",
     "better-scroll": "^1.15.2",
     "lib-flexible": "^0.3.2",
-    "lodash": "^4.17.15",
+    "lodash": "^4.17.19",
     "masonry-layout": "^4.2.2",
     "mockjs": "^1.0.1-beta3",
     "px2rem-loader": "^0.1.9",
